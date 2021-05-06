@@ -90,7 +90,7 @@
     "clean": "^4.0.2",
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
-    "lodash": "=3.10.1",
+    "lodash": "=4.17.21",
     "scryptsy": "0.2.x"
   },
   "devDependencies": {
